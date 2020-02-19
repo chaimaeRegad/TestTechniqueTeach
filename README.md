@@ -5,7 +5,7 @@ Ce projet crée dans le cadre d'un test technique qui consiste a crée une page 
 
 ### Installing
 
-la partie front-end est le dossier TeachRsFavoris et l'Api se trouve a l'interieur au niveau du dossier TeachRsApi
+la partie front-end est le dossier Pére et l'Api se trouve a l'interieur au niveau du dossier TeachRsApi
 
 les informations de la base de donnée doivent etre changé au niveau du fichier .env du dossier TeachRsApi
 
