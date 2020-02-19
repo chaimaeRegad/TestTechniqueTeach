@@ -42,17 +42,17 @@ avec la valeurs des differents items */
 super(props)
 this.state = {
   teachrs:[
-{formation:"gvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg', Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"gvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg', Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"gvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg', Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"gvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg', Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"gvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg', Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
-{formation:"ghgfvh", thumbnail:'https://especes-animales-mondiales.e-monsite.com/medias/images/2011-01-25-chat.jpg',Description:"kjbkjbed kjjnfkjee kjbkjfboq kibfek"},
+{formation:"Ingenieurie informatique", thumbnail:'https://www.michelrichardphotographe.fr/wp-content/uploads/2018/07/portrait-femme-pro-manager.jpg', Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Marketing Digital", thumbnail:'https://resize-elle.ladmedia.fr/r/625,,forcex/crop/625,804,center-middle,forcex,ffffff/img/var/plain_site/storage/images/societe/news/je-suis-une-femme-asiatique-et-j-en-peux-plus-des-hommes-qui-ne-sortent-qu-avec-des-asiatiques-3744287/88935644-1-fre-FR/Je-suis-une-femme-asiatique-et-j-en-peux-plus-des-hommes-qui-ne-sortent-qu-avec-des-Asiatiques.jpg',Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Architecture", thumbnail:'https://conseil-en-image-professionnelle.com/wp-content/uploads/2014/11/look-professionnel-irreprochable-homme1-334x380.jpg',Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Propagation d'onde", thumbnail:'https://www.fatherandsons.fr/wp/wp-content/uploads/2019/01/article-allure-professionnelle-600x900.jpg', Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Infirmerie", thumbnail:'https://thumbs.dreamstime.com/b/femme-professionnelle-asiatique-8514908.jpg',Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Mathematique", thumbnail:'https://ak7.picdn.net/shutterstock/videos/1041907/thumb/1.jpg', Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Physique-Chimie", thumbnail:'https://www.michelrichardphotographe.fr/wp-content/uploads/2018/07/portrait-femme-pro-manager.jpg',Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Systeme d'information", thumbnail:'https://conseil-en-image-professionnelle.com/wp-content/uploads/2014/11/look-professionnel-irreprochable-homme1-334x380.jpg', Description:"Tres motivé je suis une personne de trés calme et de patient"},
+{formation:"Anglais", thumbnail:'https://conseil-en-image-professionnelle.com/wp-content/uploads/2014/11/look-professionnel-irreprochable-homme1-334x380.jpg',Description:"Tres motivé je suis une personne de trés calme et de patient"},
+{formation:"Science de la vie et de la terre", thumbnail:'https://resize-elle.ladmedia.fr/r/625,,forcex/crop/625,804,center-middle,forcex,ffffff/img/var/plain_site/storage/images/societe/news/je-suis-une-femme-asiatique-et-j-en-peux-plus-des-hommes-qui-ne-sortent-qu-avec-des-asiatiques-3744287/88935644-1-fre-FR/Je-suis-une-femme-asiatique-et-j-en-peux-plus-des-hommes-qui-ne-sortent-qu-avec-des-Asiatiques.jpg', Description:"Tres motivée je suis une personne de trés calme et de patient"},
+{formation:"Espagnole", thumbnail:'https://conseil-en-image-professionnelle.com/wp-content/uploads/2014/11/look-professionnel-irreprochable-homme1-334x380.jpg',Description:"Tres motivé je suis une personne de trés calme et de patient"},
 
   ]
 }
