@@ -5,8 +5,14 @@ namespace App\Entity;
 use ApiPlatform\Core\Annotation\ApiResource;
 use Doctrine\ORM\Mapping as ORM;
 
+// @ApiResource(collectionOperations={"get","post"}
+//      )
+// Normalement on devrait utiliser ApiResource pour ne pouvoir faire que les deux action post et get mais suit a des erreurs je garde la config initial
+
+
 /**
  * @ApiResource()
+ *     
  * @ORM\Entity(repositoryClass="App\Repository\TeachrRepository")
  */
 class Teachr
